@@ -35,9 +35,10 @@ assert.deepEqual(result, expected);
 ````
 ## Options
 
+````
 {
   simple: true // takes an array and treats elements index as ordinal
   getOrdinal: (ele)=>Int // func to return the ordinal of an element in the array
   updateOrdinal: (ele, nextVal) => ele (updated) // func that updates the ordinal of an element
 }
-
+````
