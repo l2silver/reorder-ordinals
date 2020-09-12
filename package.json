@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/l2silver/reorder-ordinal.git"
+    "url": "git+https://github.com/l2silver/reorder-ordinals.git"
   },
   "keywords": [
     "reorder",
@@ -20,7 +20,7 @@
   "author": "Leigh Silverstein",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/l2silver/reorder-ordinal/issues"
+    "url": "https://github.com/l2silver/reorder-ordinals/issues"
   },
-  "homepage": "https://github.com/l2silver/reorder-ordinal#readme"
+  "homepage": "https://github.com/l2silver/reorder-ordinals#readme"
 }
